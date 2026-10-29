@@ -1,0 +1,1 @@
+# DCA Futures Android\n\nỨng dụng PWA tính giá vốn Futures tuyến tính USDT, hoạt động offline sau lần tải đầu.\n\n## Deploy\nGitHub repository → Settings → Pages → Deploy from a branch → main / root → Save.\n\nMở URL Pages trên Chrome Android → menu ⋮ → Add to Home screen / Install app.\n\nKhông kết nối tài khoản sàn hoặc đặt lệnh. Không tính giá thanh lý.
